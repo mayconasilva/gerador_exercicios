@@ -15,6 +15,16 @@
 
 ## Como Usar
 
-1. Iniciar o arquivo index.js
-2. Responder a pergunta no terminal de acordo com as informações no terminal
-3. Pronto, a lista de exercício está em um arquivo em pdf com o nome "lista.pdf"
+1. No terminal utilize o comando 
+```
+git clone https://github.com/mayconasilva/gerador_exercicios.git
+
+```
+2. Utilize o comando
+```
+
+node index.js
+
+```
+3. Responder a pergunta no terminal de acordo com as informações no terminal
+4. Pronto, a lista de exercício está em um arquivo em pdf com o nome "lista.pdf"
