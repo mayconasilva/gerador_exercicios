@@ -28,3 +28,10 @@ node index.js
 ```
 3. Responder a pergunta no terminal de acordo com as informações no terminal
 4. Pronto, a lista de exercício está em um arquivo em pdf com o nome "lista.pdf"
+
+## Bibliotecas utilizadas
+
+- pdfkit
+- realine
+
+## Última atualização do README: 04/01/2022
