@@ -1,0 +1,74 @@
+[
+    {
+      "banca":"Toda Matéria",
+      "questao":"Na grécia antiga as principais cidades-estados eram:  \n",
+      "alta":"Babilônia e Brasilia  \n",
+      "altb":"Esparta e Roma  \n",
+      "altc":"Babilônia e Esparta  \n",
+      "altd":"Atenas e Esparta \n ",
+      "alte":"Roma e Babilônia  \n",
+      "gabarito":"D", 
+      "assunto":"Grécia Antiga",
+      "dificuldade":"fácil"
+    },
+    {
+      "banca":"UEL - PR",
+      "questao":"Com a nova divisão da sociedade, qualquer cidadão poderia participar das decisões do poder. Apenas os escravos e os metecos (estrangeiros) não participavam das decisões políticas, pois não tinham direito de cidadania. \n Ao texto pode-se associar: \n",
+      "alta":"Drácon e a expansão colonial em direção ao Mediterrâneo. \n",
+      "altb":"Sólon e a militarização da política espartana. \n",
+      "altc":"Psístrato e a helenização da Península Balcânica. \n",
+      "altd":"Péricles e a hegemonia cultural grega no Peloponeso. \n",
+      "alte":"Clístenes e a democracia escravista ateniense. \n",
+      "gabarito":"E",
+      "assunto":"Grécia Antiga",
+      "dificuldade":"Fácil"
+    },
+    {
+      "banca":"PUC - SP",
+      "questao":"No sentido contemporâneo do termo, sobretudo com implicações de unidade política, a palavra nação não pode ser aplicada à Grécia Antiga. Tanto assim que: \n",
+      "alta":"prevaleciam padrões culturais diferenciados nas várias regiões. \n",
+      "altb":"as formas de governo foram únicas, mas guardavam total autonomia. \n",
+      "altc":"não havia unidade de língua e religião entre as várias populações urbanas. \n",
+      "altd":"as cidades eram independentes nos assuntos de seu próprio interesse. \n",
+      "alte":"predominavam as tendências à proibição de atividades econômicas semelhantes. \n",
+      "gabarito":"D",
+      "assunto":"Grécia Antiga",
+      "dificuldade":"Média"
+    },
+    {
+      "banca":"UFRN - 2002",
+      "questao":"A religião estava presente em todos os aspectos da vida no Antigo Egito. A medicina, inclusive, era impregnada de elementos mágicos e religiosos. \n A relação entre religião e medicina no Antigo Egito era evidente na medida em que \n",
+      "alta":"as práticas médicas estavam voltadas apenas para o tratamento dos faraós, cuja imagem era associada aos deuses. \n",
+      "altb":"as técnicas desenvolvidas na medicina foram estimuladas pela necessidade de preservar o corpo para a vida após a morte. \n",
+      "altc":"os médicos, recrutados entre as mais altas camadas sociais, acumulavam também a função de promover o culto religioso. \n",
+      "altd":"os médicos queriam prolongar a existência terrena, estimulados pelas crenças religiosas que negavam a imortalidade da alma. \n",
+      "alte":"n.d.a \n",
+      "gabarito":"B",
+      "assunto":"Antigo Egito",
+      "dificuldade":"Média"
+    },
+    {
+      "banca":"UPF - 2012",
+      "questao":"Com relação à civilização hebraica é incorreto afirmar: \n",
+      "alta":" O denominado 'Cativeiro da Babilônia' constituiu-se no processo de diáspora dos hebreus da região da Palestina. Esse processo os tornou um povo vagante desde aquela migração forçada e consequente dispersão de sua civilização - situação só reparada com a criação do Estado de Israel em 1948. \n",
+      "altb":"Suas leis foram sistematizadas a partir de reelaborações de códigos de várias civilizações do Oriente Próximo, todavia, apresentaram uma novidade em relação às demais ao defender os pobres, viúvas e órfãos. \n",
+      "altc":"A defesa de um deus uno, transcendente e bom implicava a vivência ética e moral visando a salvação futura de cada um. \n",
+      "altd":" A consideração de si mesmos como 'povo eleito' incutia nos hebreus a responsabilidade de serem exemplos de moralidade e vivência para as demais civilizações antigas. \n",
+      "alte":"A importância dedicada à história devia-se à compreensão de que é na atuação temporal/cotidiana que se está constituindo o caminho para a salvação futura. \n",
+      "gabarito":"A",
+      "assunto":"Antiguidade Oriental",
+      "dificuldade":"Fácil"
+    },
+    {
+      "banca":"Fuvest 2020",
+      "questao":"Ao primeiro brilho da alvorada chegou do horizonte uma nuvem negra, que era conduzida [pelo] senhor da tempestade (...). Surgiram então os deuses do abismo; Nergal destruiu as barragens que represavam as águas do inferno; Ninurta, o deus da guerra, pôs abaixo os diques (...). Por seis dias e seis noites os ventos sopraram; enxurradas, inundações e torrentes assolaram o mundo; a tempestade e o dilúvio explodiam em fúria como dois exércitos em guerra. Na alvorada do sétimo dia o temporal (...) amainou (...) o dilúvio serenou (...) toda a humanidade havia virado argila (...). Na montanha de Nisir o barco ficou preso (...). Na alvorada do sétimo dia eu soltei uma pomba e deixei que se fosse. Ela voou para longe, mas, não encontrando um lugar para pousar, retornou. Então soltei um corvo. A ave viu que as águas haviam abaixado; ela comeu, (...) grasnou e não mais voltou para o barco. Eu então abri todas as portas e janelas, expondo a nave aos quatro ventos. Preparei um sacrifício e derramei vinho sobre o topo da montanha em oferenda aos deuses (...). \n A Epopeia de Gilgamesh, São Paulo: Martins Fontes, 2001. \n Com base no texto, registrado aproximadamente no século VII a.C. e que se refere a um antigo mito da Mesopotâmia, bem como em seus conhecimentos, é possível dizer que a sociedade descrita era \n",
+      "alta":" mercantil, pacífica, politeísta e centralizada.  \n  ",
+      "altb":" agrária, militarizada, monoteísta e democrática. \n ",
+      "altc":" manufatureira, naval, monoteísta e federalizada. \n",
+      "altd":" mercantil, guerreira, monoteísta e federalizada. \n",
+      "alte":" agrária, guerreira, politeísta e centralizada. \n  ",
+      "gabarito":"E",
+      "assunto":"Antiguidade Oriental",
+      "dificuldade":"Médio"
+    }
+    ]
