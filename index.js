@@ -58,6 +58,12 @@ rl.question("Qual a disciplina que você deseja gerar uma lista? ", function (an
             8º)(${lista[7].banca}) ${lista[7].questao} a)${lista[7].alta} b) ${lista[7].altb} c)${lista[7].altc}d) ${lista[7].altd} e) ${lista[7].alte} \n
             9º)(${lista[8].banca}) ${lista[8].questao} a)${lista[8].alta} b) ${lista[8].altb} c)${lista[8].altc}d) ${lista[8].altd} e) ${lista[8].alte} \n
             10º)(${lista[9].banca}) ${lista[9].questao} a)${lista[9].alta} b) ${lista[9].altb} c)${lista[9].altc}d) ${lista[9].altd} e) ${lista[9].alte}`, { align: 'justify', columns: '2' })
+
+        doc
+        .fontSize(8)
+        .moveDown()
+        .moveDown()
+        .text(`Gabarito: 1º) - ${lista[0].gabarito}, 2º) - ${lista[1].gabarito}, 3º) - ${lista[2].gabarito}, 4º) - ${lista[3].gabarito}, 5º) - ${lista[4].gabarito},6º) - ${lista[5].gabarito}, 7º) - ${lista[6].gabarito}, 8º) - ${lista[7].gabarito},9º) -  ${lista[8].gabarito}, 10º) - ${lista[9].gabarito} `, {align:"right", columnGap:"1"})
     console.log("\x1b[0m", "Lista Criada")
 
     doc.end()

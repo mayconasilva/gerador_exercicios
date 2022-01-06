@@ -1,74 +1,92 @@
 [
-    {
-      "banca":"Toda Matéria",
-      "questao":"Na grécia antiga as principais cidades-estados eram:  \n",
-      "alta":"Babilônia e Brasilia  \n",
-      "altb":"Esparta e Roma  \n",
-      "altc":"Babilônia e Esparta  \n",
-      "altd":"Atenas e Esparta \n ",
-      "alte":"Roma e Babilônia  \n",
-      "gabarito":"D", 
-      "assunto":"Grécia Antiga",
-      "dificuldade":"fácil"
-    },
-    {
-      "banca":"UEL - PR",
-      "questao":"Com a nova divisão da sociedade, qualquer cidadão poderia participar das decisões do poder. Apenas os escravos e os metecos (estrangeiros) não participavam das decisões políticas, pois não tinham direito de cidadania. \n Ao texto pode-se associar: \n",
-      "alta":"Drácon e a expansão colonial em direção ao Mediterrâneo. \n",
-      "altb":"Sólon e a militarização da política espartana. \n",
-      "altc":"Psístrato e a helenização da Península Balcânica. \n",
-      "altd":"Péricles e a hegemonia cultural grega no Peloponeso. \n",
-      "alte":"Clístenes e a democracia escravista ateniense. \n",
-      "gabarito":"E",
-      "assunto":"Grécia Antiga",
-      "dificuldade":"Fácil"
-    },
-    {
-      "banca":"PUC - SP",
-      "questao":"No sentido contemporâneo do termo, sobretudo com implicações de unidade política, a palavra nação não pode ser aplicada à Grécia Antiga. Tanto assim que: \n",
-      "alta":"prevaleciam padrões culturais diferenciados nas várias regiões. \n",
-      "altb":"as formas de governo foram únicas, mas guardavam total autonomia. \n",
-      "altc":"não havia unidade de língua e religião entre as várias populações urbanas. \n",
-      "altd":"as cidades eram independentes nos assuntos de seu próprio interesse. \n",
-      "alte":"predominavam as tendências à proibição de atividades econômicas semelhantes. \n",
-      "gabarito":"D",
-      "assunto":"Grécia Antiga",
-      "dificuldade":"Média"
-    },
-    {
-      "banca":"UFRN - 2002",
-      "questao":"A religião estava presente em todos os aspectos da vida no Antigo Egito. A medicina, inclusive, era impregnada de elementos mágicos e religiosos. \n A relação entre religião e medicina no Antigo Egito era evidente na medida em que \n",
-      "alta":"as práticas médicas estavam voltadas apenas para o tratamento dos faraós, cuja imagem era associada aos deuses. \n",
-      "altb":"as técnicas desenvolvidas na medicina foram estimuladas pela necessidade de preservar o corpo para a vida após a morte. \n",
-      "altc":"os médicos, recrutados entre as mais altas camadas sociais, acumulavam também a função de promover o culto religioso. \n",
-      "altd":"os médicos queriam prolongar a existência terrena, estimulados pelas crenças religiosas que negavam a imortalidade da alma. \n",
-      "alte":"n.d.a \n",
-      "gabarito":"B",
-      "assunto":"Antigo Egito",
-      "dificuldade":"Média"
-    },
-    {
-      "banca":"UPF - 2012",
-      "questao":"Com relação à civilização hebraica é incorreto afirmar: \n",
-      "alta":" O denominado 'Cativeiro da Babilônia' constituiu-se no processo de diáspora dos hebreus da região da Palestina. Esse processo os tornou um povo vagante desde aquela migração forçada e consequente dispersão de sua civilização - situação só reparada com a criação do Estado de Israel em 1948. \n",
-      "altb":"Suas leis foram sistematizadas a partir de reelaborações de códigos de várias civilizações do Oriente Próximo, todavia, apresentaram uma novidade em relação às demais ao defender os pobres, viúvas e órfãos. \n",
-      "altc":"A defesa de um deus uno, transcendente e bom implicava a vivência ética e moral visando a salvação futura de cada um. \n",
-      "altd":" A consideração de si mesmos como 'povo eleito' incutia nos hebreus a responsabilidade de serem exemplos de moralidade e vivência para as demais civilizações antigas. \n",
-      "alte":"A importância dedicada à história devia-se à compreensão de que é na atuação temporal/cotidiana que se está constituindo o caminho para a salvação futura. \n",
-      "gabarito":"A",
-      "assunto":"Antiguidade Oriental",
-      "dificuldade":"Fácil"
-    },
-    {
-      "banca":"Fuvest 2020",
-      "questao":"Ao primeiro brilho da alvorada chegou do horizonte uma nuvem negra, que era conduzida [pelo] senhor da tempestade (...). Surgiram então os deuses do abismo; Nergal destruiu as barragens que represavam as águas do inferno; Ninurta, o deus da guerra, pôs abaixo os diques (...). Por seis dias e seis noites os ventos sopraram; enxurradas, inundações e torrentes assolaram o mundo; a tempestade e o dilúvio explodiam em fúria como dois exércitos em guerra. Na alvorada do sétimo dia o temporal (...) amainou (...) o dilúvio serenou (...) toda a humanidade havia virado argila (...). Na montanha de Nisir o barco ficou preso (...). Na alvorada do sétimo dia eu soltei uma pomba e deixei que se fosse. Ela voou para longe, mas, não encontrando um lugar para pousar, retornou. Então soltei um corvo. A ave viu que as águas haviam abaixado; ela comeu, (...) grasnou e não mais voltou para o barco. Eu então abri todas as portas e janelas, expondo a nave aos quatro ventos. Preparei um sacrifício e derramei vinho sobre o topo da montanha em oferenda aos deuses (...). \n A Epopeia de Gilgamesh, São Paulo: Martins Fontes, 2001. \n Com base no texto, registrado aproximadamente no século VII a.C. e que se refere a um antigo mito da Mesopotâmia, bem como em seus conhecimentos, é possível dizer que a sociedade descrita era \n",
-      "alta":" mercantil, pacífica, politeísta e centralizada.  \n  ",
-      "altb":" agrária, militarizada, monoteísta e democrática. \n ",
-      "altc":" manufatureira, naval, monoteísta e federalizada. \n",
-      "altd":" mercantil, guerreira, monoteísta e federalizada. \n",
-      "alte":" agrária, guerreira, politeísta e centralizada. \n  ",
-      "gabarito":"E",
-      "assunto":"Antiguidade Oriental",
-      "dificuldade":"Médio"
-    }
-    ]
+  {
+    "questao": "Na grécia antiga as principais cidades-estados eram:  \n",
+    "gabarito": "D",
+    "banca": "Toda Matéria",
+    "alte": "Roma e Babilônia  \n",
+    "altd": "Atenas e Esparta \n ",
+    "altc": "Babilônia e Esparta  \n",
+    "altb": "Esparta e Roma  \n",
+    "alta": "Babilônia e Brasilia  \n"
+  },
+  {
+    "questao": "Com a nova divisão da sociedade, qualquer cidadão poderia participar das decisões do poder. Apenas os escravos e os metecos (estrangeiros) não participavam das decisões políticas, pois não tinham direito de cidadania. \n Ao texto pode-se associar: \n",
+    "gabarito": "E",
+    "banca": "UEL - PR",
+    "alte": "Clístenes e a democracia escravista ateniense. \n",
+    "altd": "Péricles e a hegemonia cultural grega no Peloponeso. \n",
+    "altc": "Psístrato e a helenização da Península Balcânica. \n",
+    "altb": "Sólon e a militarização da política espartana. \n",
+    "alta": "Drácon e a expansão colonial em direção ao Mediterrâneo. \n"
+  },
+  {
+    "questao": "No sentido contemporâneo do termo, sobretudo com implicações de unidade política, a palavra nação não pode ser aplicada à Grécia Antiga. Tanto assim que: \n",
+    "gabarito": "D",
+    "banca": "PUC - SP",
+    "alte": "predominavam as tendências à proibição de atividades econômicas semelhantes. \n",
+    "altd": "as cidades eram independentes nos assuntos de seu próprio interesse. \n",
+    "altc": "não havia unidade de língua e religião entre as várias populações urbanas. \n",
+    "altb": "as formas de governo foram únicas, mas guardavam total autonomia. \n",
+    "alta": "prevaleciam padrões culturais diferenciados nas várias regiões. \n"
+  },
+  {
+    "questao": "A religião estava presente em todos os aspectos da vida no Antigo Egito. A medicina, inclusive, era impregnada de elementos mágicos e religiosos. \n A relação entre religião e medicina no Antigo Egito era evidente na medida em que \n",
+    "gabarito": "B",
+    "banca": "UFRN - 2002",
+    "alte": "n.d.a \n",
+    "altd": "os médicos queriam prolongar a existência terrena, estimulados pelas crenças religiosas que negavam a imortalidade da alma. \n",
+    "altc": "os médicos, recrutados entre as mais altas camadas sociais, acumulavam também a função de promover o culto religioso. \n",
+    "altb": "as técnicas desenvolvidas na medicina foram estimuladas pela necessidade de preservar o corpo para a vida após a morte. \n",
+    "alta": "as práticas médicas estavam voltadas apenas para o tratamento dos faraós, cuja imagem era associada aos deuses. \n"
+  },
+  {
+    "questao": "Com relação à civilização hebraica é incorreto afirmar: \n",
+    "gabarito": "A",
+    "banca": "UPF - 2012",
+    "alte": "A importância dedicada à história devia-se à compreensão de que é na atuação temporal/cotidiana que se está constituindo o caminho para a salvação futura. \n",
+    "altd": " A consideração de si mesmos como 'povo eleito' incutia nos hebreus a responsabilidade de serem exemplos de moralidade e vivência para as demais civilizações antigas. \n",
+    "altc": "A defesa de um deus uno, transcendente e bom implicava a vivência ética e moral visando a salvação futura de cada um. \n",
+    "altb": "Suas leis foram sistematizadas a partir de reelaborações de códigos de várias civilizações do Oriente Próximo, todavia, apresentaram uma novidade em relação às demais ao defender os pobres, viúvas e órfãos. \n",
+    "alta": " O denominado 'Cativeiro da Babilônia' constituiu-se no processo de diáspora dos hebreus da região da Palestina. Esse processo os tornou um povo vagante desde aquela migração forçada e consequente dispersão de sua civilização - situação só reparada com a criação do Estado de Israel em 1948. \n"
+  },
+  {
+    "questao": "Ao primeiro brilho da alvorada chegou do horizonte uma nuvem negra, que era conduzida [pelo] senhor da tempestade (...). Surgiram então os deuses do abismo; Nergal destruiu as barragens que represavam as águas do inferno; Ninurta, o deus da guerra, pôs abaixo os diques (...). Por seis dias e seis noites os ventos sopraram; enxurradas, inundações e torrentes assolaram o mundo; a tempestade e o dilúvio explodiam em fúria como dois exércitos em guerra. Na alvorada do sétimo dia o temporal (...) amainou (...) o dilúvio serenou (...) toda a humanidade havia virado argila (...). Na montanha de Nisir o barco ficou preso (...). Na alvorada do sétimo dia eu soltei uma pomba e deixei que se fosse. Ela voou para longe, mas, não encontrando um lugar para pousar, retornou. Então soltei um corvo. A ave viu que as águas haviam abaixado; ela comeu, (...) grasnou e não mais voltou para o barco. Eu então abri todas as portas e janelas, expondo a nave aos quatro ventos. Preparei um sacrifício e derramei vinho sobre o topo da montanha em oferenda aos deuses (...). \n A Epopeia de Gilgamesh, São Paulo: Martins Fontes, 2001. \n Com base no texto, registrado aproximadamente no século VII a.C. e que se refere a um antigo mito da Mesopotâmia, bem como em seus conhecimentos, é possível dizer que a sociedade descrita era \n",
+    "gabarito": "E",
+    "banca": "Fuvest 2020",
+    "alte": " agrária, guerreira, politeísta e centralizada. \n  ",
+    "altd": " mercantil, guerreira, monoteísta e federalizada. \n",
+    "altc": " manufatureira, naval, monoteísta e federalizada. \n",
+    "altb": " agrária, militarizada, monoteísta e democrática. \n ",
+    "alta": " mercantil, pacífica, politeísta e centralizada.  \n  "
+  },
+  {
+    "questao": "A rainha Nzinga (1624-1663), governante seiscentista do Ndongo, um reino da África Central situado na atual Angola, chegou ao poder graças à sua competência militar, à diplomacia bem sucedida, à manipulação da religião e de conflitos entre potências europeias. Ela criou as condições para a primeira sublevação popular mbundu contra a exploração portuguesa ao atrair para sua causa os chefes que estavam sob influência europeia. Depois conquistou o reino vizinho de Matamba e o governou por três décadas junto com o que restou do poderoso reino Ndongo; desafiou treze governadores portugueses que regeram Angola entre 1622 e 1633. Apesar de seus feitos e o longo reinado, comparável ao de Elizabeth I (1503—1603) da Inglaterra, ela foi desacreditada pelos contemporâneos europeus e por autores posteriores. \n (Adaptado de Linda Heywood, Nzinga de Angola: a rainha guerreira de África. Lisboa: Casa das Letras, 2017. p. 10-12; 82.) \n Com base no excerto e em seus conhecimentos, é correto afirmar que a rainha Nzinga:",
+    "gabarito": "A",
+    "banca": "UNICAMP 2021",
+    "alte": "n.d.a \n",
+    "altd": "Enfrentou um mundo onde o imaginário monárquico e o ideário político eram hegemonicamente masculinos e, assim como a Rainha Elizabeth I, não teve sucesso político e militar. \n",
+    "altc": "Aboliu o tráfico atlântico de escravizados, apesar da oposição de missionários e comerciantes portugueses que viviam em Luanda, e perseguiu os sobas envolvidos com o comércio. \n",
+    "altb": "Expulsou os portugueses de Angola e reconstruiu o reino do Ndongo em sua extensão original através da política de distribuição de terras aos sobas que aceitaram a sua legitimidade no trono. \n",
+    "alta": "Utilizou, como estratégias políticas para conter o avanço português em seus territórios, a formação de alianças com reinos vizinhos (como Congo), a exploração dos conflitos entre Portugal e Holanda e a interferência nas redes do tráfico. \n"
+  },
+  {
+    "questao": "Eu, o Príncipe Regente, faço saber aos que o presente Alvará virem: que desejando promover e adiantar a riqueza nacional, e sendo um dos mananciais dela as manufaturas e a indústria, sou servido abolir e revogar toda e qualquer proibição que haja a este respeito no Estado do Brasil. \n Alvará de liberdade para as indústrias (1.o de Abril de 1808). In Bonavides, P.; Amaral, R. Textos políticos da História do Brasil. Vol. 1. Brasília: Senado Federal, 2002 (adaptado). \n O projeto industrializante de D. João, conforme expresso no alvará, não se concretizou. Que características desse período explicam esse fato?",
+    "gabarito": "B",
+    "banca": "ENEM 2010",
+    "alte": "O atraso industrial da colônia provocado pla perda de mercados para as indústrias portuguesas. \n",
+    "altd": "O confronto entre a França e a Inglaterra e a posição úbia assumida por Portugal no comércio internacional. \n",
+    "altc": " A desconfiança da burguesia industrial colonial diante da chegada da família real portuguesa. \n",
+    "altb": "A dependência portuguesa da Inglaterra e o predomínio industrial inglês sore suas redes de comércio. \n",
+    "alta": "A ocupação de Portugal pelas tropas francesas e o fechamento das manufaturas portuguesas. \n"
+  },
+  {
+    "questao":"O Tratado de Comércio e Navegação, também conhecido como Tratado de Pelris, foi assinado em 1810, entre Brasil e Inglaterra, e determinava:",
+    "banca":"Brasil Escola",
+    "alta":"o fim do tráfico negreiro \n",
+    "altb":"a abolição da escravidão. \n",
+    "altc":"o fechamento dos portos. \n",
+    "altd":"as tarifas alfanegárias \n", 
+    "alte":"a suspensão das importações \n",
+    "gabarito":"C"
+  }
+]

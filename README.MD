@@ -15,15 +15,19 @@
 
 ## Como Usar
 
-1. No terminal utilize o comando 
+1. Utilize o seguinte comando no terminal
+
 ```
 git clone https://github.com/mayconasilva/gerador_exercicios.git
 
 ```
-2. Utilize o comando
+
+2. Utilize os seguintes comandos no terminal
+
 ```
 
-node index.js
+cd gerador_exercicios
+npm install 
 
 ```
 3. Responder a pergunta no terminal de acordo com as informações no terminal
