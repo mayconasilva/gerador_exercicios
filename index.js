@@ -9,7 +9,7 @@ const rl = readline.createInterface({
 });
 
 
-console.log("\x1b[47m", "-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-")
+console.log("-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-")
 console.log("\x1b[34m","lplb= Língua Portuguesa e Literatura Brasileira \n mat = Matemática \n bio = Biologia \n fis = Física \n qui = Química \n his = História \n geo = Geografia \n fil = filosofia \n soc = Sociologia ")
 
 console.log("\x1b[30m", "-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-")
